@@ -22,4 +22,7 @@ HTML5, CSS3, JS (Es-6), NodeJS, REST-style API, Express, Python, Scikit-Learn, N
 * The canvas is made of 28 x 28 pixels.
 
 # Miscellaneous
+Video Description: [https://drive.google.com/drive/folders/1PcGVGBMJYeitez-ZzJeVxag2czqqEqDJ?usp=share_link](https://drive.google.com/drive/folders/1PcGVGBMJYeitez-ZzJeVxag2czqqEqDJ?usp=share_link)
+
+
 Click on @nightfalcon to know more ;)
